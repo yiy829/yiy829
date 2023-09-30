@@ -2,6 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=InYoung%20Yeo&fontAlign=65&fontAlignY=40" />	
 </div>
 
+## 👨‍💻 Interest
+- Backend
+- Data Engineering
+- NLP
+
 ## 📚 Tech Stack
 
 ### Programming languages
